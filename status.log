@@ -1,1 +1,2 @@
 2025-03-10 10:01:58,407 - log - ERROR - Failed to upload media: ['assets/whiterose_v3_holding_hands.gif']: Failed to send request: ('Connection aborted.', TimeoutError('The write operation timed out'))
+2025-03-10 18:02:56,120 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss???_ruby???.mp4']: Failed to send request: HTTPSConnectionPool(host='upload.twitter.com', port=443): Read timed out. (read timeout=60)
