@@ -1,0 +1,1 @@
+2025-03-10 10:01:58,407 - log - ERROR - Failed to upload media: ['assets/whiterose_v3_holding_hands.gif']: Failed to send request: ('Connection aborted.', TimeoutError('The write operation timed out'))
