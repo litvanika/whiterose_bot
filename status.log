@@ -8,3 +8,4 @@ Service Unavailable
 2025-05-24 14:01:04,420 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_before_comforting_each_other_in_v9.jpg']: 503 Service Unavailable
 Service Unavailable
 2025-09-03 22:00:59,254 - log - ERROR - Failed to upload media: ['assets/whiterose_v7.webp']: 500 Internal Server Error
+2025-11-18 12:00:38,872 - log - ERROR - Failed to upload media: ['assets/whiterose_jl_part_1_hug/whiterose_ruby_sparkling_eyes_glad_to_see_weiss.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_jump_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_jl_part_1_hug_weiss_with_closed_eyes.jpeg']: 500 Internal Server Error
