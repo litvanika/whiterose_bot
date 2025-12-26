@@ -11,3 +11,4 @@ Service Unavailable
 2025-11-18 12:00:38,872 - log - ERROR - Failed to upload media: ['assets/whiterose_jl_part_1_hug/whiterose_ruby_sparkling_eyes_glad_to_see_weiss.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_jump_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_jl_part_1_hug_weiss_with_closed_eyes.jpeg']: 500 Internal Server Error
 2025-11-18 14:00:39,599 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_opening.jpeg']: 500 Internal Server Error
 2025-12-16 16:00:45,605 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_chess_battle.jpg']: 403 Forbidden
+2025-12-26 12:00:45,821 - log - ERROR - Failed to upload media: ['assets/whiterose_hugging_and_crying_v1.gif']: 403 Forbidden
