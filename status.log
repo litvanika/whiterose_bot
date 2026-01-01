@@ -46,3 +46,4 @@ Service Unavailable
 2025-12-31 22:00:46,691 - log - ERROR - Failed to upload media: ['assets/whiterose_comforting_each_other.gif']: 403 Forbidden
 2026-01-01 00:00:48,871 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_chess_battle.jpg']: 403 Forbidden
 2026-01-01 04:00:46,214 - log - ERROR - Failed to upload media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png']: 403 Forbidden
+2026-01-01 06:00:48,286 - log - ERROR - Failed to upload media: ['assets/whiterose_v7_???.mp4']: 403 Forbidden
