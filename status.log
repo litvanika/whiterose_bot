@@ -52,3 +52,4 @@ Service Unavailable
 2026-01-01 14:00:49,191 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg']: 403 Forbidden
 2026-01-01 18:00:44,953 - log - ERROR - Failed to upload media: ['assets/whiterose_v7.webp']: 403 Forbidden
 2026-01-01 20:00:45,238 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_before_comforting_each_other_in_v9.jpg']: 403 Forbidden
+2026-01-01 22:00:43,336 - log - ERROR - Failed to upload media: ['assets/whiterose_standing_up_in_v6_opening.gif']: 403 Forbidden
