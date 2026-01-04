@@ -75,3 +75,4 @@ Service Unavailable
 2026-01-04 06:00:51,511 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_opening_with_petals.gif']: 403 Forbidden
 2026-01-04 08:00:48,926 - log - ERROR - Failed to upload media: ['assets/whiterose_ruby_talking_to_weiss_v6.gif']: 403 Forbidden
 2026-01-04 14:00:43,542 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_train_ruby_cape.gif']: 403 Forbidden
+2026-01-04 20:00:47,626 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_sliding_in_to_the_screen_from_the_left.gif']: 403 Forbidden
