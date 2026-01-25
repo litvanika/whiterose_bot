@@ -93,3 +93,4 @@ Service Unavailable
 2026-01-21 12:00:50,945 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_sliding_in_to_the_screen_from_the_left.gif']: 403 Forbidden
 2026-01-24 22:00:45,706 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 403 Forbidden
 2026-01-25 08:00:48,615 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_weiss_looking_at_ruby_softly.gif']: 403 Forbidden
+2026-01-25 18:00:47,584 - log - ERROR - Failed to upload media: ['assets/whiterose_hug_jl_part_2_ending.jpg']: 403 Forbidden
