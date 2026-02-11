@@ -99,3 +99,4 @@ Service Unavailable
 2026-02-06 04:00:52,203 - log - ERROR - Failed to upload media: ['assets/whiterose_angst_v8.mp4']: 403 Forbidden
 2026-02-09 16:00:56,992 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg']: 403 Forbidden
 2026-02-11 00:00:55,473 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 403 Forbidden
+2026-02-11 02:00:49,661 - log - ERROR - Failed to upload media: ['assets/whiterose_v3_holding_hands.gif']: 403 Forbidden
