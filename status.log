@@ -103,3 +103,4 @@ Service Unavailable
 2026-02-14 06:00:48,147 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss???_ruby???.mp4']: 403 Forbidden
 2026-02-15 22:00:47,383 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_opening_ruby_saving_weiss.gif']: 403 Forbidden
 2026-02-16 00:00:49,434 - log - ERROR - Failed to upload media: ['assets/whiterose.png']: 403 Forbidden
+2026-02-16 02:00:55,085 - log - ERROR - Failed to upload media: ['assets/whiterose_pencils/whiterose_pencils.jpg']: 403 Forbidden
