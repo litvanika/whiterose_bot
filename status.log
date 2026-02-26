@@ -109,3 +109,4 @@ Service Unavailable
 2026-02-25 22:00:53,005 - log - ERROR - Failed to upload media: ['assets/whiterose_standing_up_in_v6_opening.gif']: 403 Forbidden
 2026-02-26 00:00:59,445 - log - ERROR - Failed to upload media: ['assets/whiterose_judging_red_prince_together.jpeg']: 403 Forbidden
 2026-02-26 06:00:55,056 - log - ERROR - Failed to upload media: ['assets/whiterose_v7_appearing_from_behind_a_column.gif']: 403 Forbidden
+2026-02-26 10:01:00,819 - log - ERROR - Failed to upload media: ['assets/whiterose_v5_rwby_group_hug.gif']: 403 Forbidden
