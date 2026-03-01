@@ -116,3 +116,4 @@ Service Unavailable
 2026-02-28 22:00:51,399 - log - ERROR - Failed to upload media: ['assets/whiterose_holding_hands.png']: 403 Forbidden
 2026-03-01 12:00:52,438 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_smiling_at_ruby_and_ruby_hand_on_weiss_shoulder.gif']: 403 Forbidden
 2026-03-01 14:00:48,066 - log - ERROR - Failed to upload media: ['assets/whiterose_combat_ready.gif']: 403 Forbidden
+2026-03-01 16:00:52,150 - log - ERROR - Failed to upload media: ['assets/whiterose_good_night.gif']: 403 Forbidden
