@@ -121,3 +121,4 @@ Service Unavailable
 2026-03-02 06:00:55,209 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 403 Forbidden
 2026-03-06 16:00:51,727 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_opening.jpeg']: 403 Forbidden
 2026-03-07 20:00:52,652 - log - ERROR - Failed to upload media: ['assets/whiterose_storyboard_clip/whiterose_storyboard_clip_0.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_1.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_2.png']: 403 Forbidden
+2026-03-11 22:00:48,975 - log - ERROR - Failed to upload media: ['assets/whiterose_first_meeting_explosion.jpeg']: 403 Forbidden
