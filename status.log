@@ -301,3 +301,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-04-02 16:00:56,035 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4']: 401 Unauthorized
 32 - Could not authenticate you
+2026-04-02 18:00:54,449 - log - ERROR - Failed to upload media: ['assets/whiterose_comforting_each_other.gif']: 401 Unauthorized
+32 - Could not authenticate you
