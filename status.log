@@ -501,3 +501,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-04-11 00:00:52,690 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_silly.gif']: 401 Unauthorized
 32 - Could not authenticate you
+2026-04-11 02:00:49,813 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_spinning_ruby.gif']: 401 Unauthorized
+32 - Could not authenticate you
