@@ -599,3 +599,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-04-15 02:00:51,723 - log - ERROR - Failed to upload media: ['assets/ShesAHazardToMyHealth.png']: 401 Unauthorized
 32 - Could not authenticate you
+2026-04-15 04:00:49,583 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 401 Unauthorized
+32 - Could not authenticate you
