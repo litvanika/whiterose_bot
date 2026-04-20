@@ -715,3 +715,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-04-19 22:00:57,017 - log - ERROR - Failed to upload media: ['assets/whiterose_v3_boop.gif']: 401 Unauthorized
 32 - Could not authenticate you
+2026-04-20 00:00:54,096 - log - ERROR - Failed to upload media: ['assets/whiterose_judging_red_prince_together.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
