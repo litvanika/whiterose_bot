@@ -751,3 +751,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-04-21 10:00:53,544 - log - ERROR - Failed to upload media: ['assets/whiterose_v5_rwby_group_hug.gif']: 401 Unauthorized
 32 - Could not authenticate you
+2026-04-21 12:00:51,538 - log - ERROR - Failed to upload media: ['assets/whiterose.png']: 401 Unauthorized
+32 - Could not authenticate you
