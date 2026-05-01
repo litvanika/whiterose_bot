@@ -991,3 +991,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-05-01 12:00:54,598 - log - ERROR - Failed to upload media: ['assets/whiterose_v7.webp']: 401 Unauthorized
 32 - Could not authenticate you
+2026-05-01 14:00:49,462 - log - ERROR - Failed to upload media: ['assets/whiterose_ruby_talking_to_weiss_v6.gif']: 401 Unauthorized
+32 - Could not authenticate you
