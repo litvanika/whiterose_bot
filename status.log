@@ -997,3 +997,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-05-01 18:00:56,200 - log - ERROR - Failed to upload media: ['assets/whiterose_kiss.gif']: 401 Unauthorized
 32 - Could not authenticate you
+2026-05-01 20:00:50,815 - log - ERROR - Failed to upload media: ['assets/whiterose_combat_ready.gif']: 401 Unauthorized
+32 - Could not authenticate you
