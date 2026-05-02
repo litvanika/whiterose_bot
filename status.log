@@ -1013,3 +1013,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-05-02 10:00:51,595 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_angst_weiss???.mp4']: 401 Unauthorized
 32 - Could not authenticate you
+2026-05-02 12:00:52,201 - log - ERROR - Failed to upload media: ['assets/whiterose_first_meeting_ruby_fingers.gif']: 401 Unauthorized
+32 - Could not authenticate you
