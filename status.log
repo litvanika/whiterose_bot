@@ -1067,3 +1067,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-05-04 16:00:58,508 - log - ERROR - Failed to upload media: ['assets/ShesAHazardToMyHealth.png']: 401 Unauthorized
 32 - Could not authenticate you
+2026-05-04 18:00:55,217 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
