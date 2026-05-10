@@ -1195,3 +1195,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-05-10 00:01:01,091 - log - ERROR - Failed to upload media: ['assets/whiterose.png']: 401 Unauthorized
 32 - Could not authenticate you
+2026-05-10 02:00:56,202 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_bumbleby_scene_about_time.jpg']: 401 Unauthorized
+32 - Could not authenticate you
