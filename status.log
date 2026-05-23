@@ -1503,3 +1503,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-05-22 22:00:54,253 - log - ERROR - Failed to upload media: ['assets/whiterose_weiss_what_do_you_think_ruby_i_am_still_gay.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-05-23 00:00:54,967 - log - ERROR - Failed to upload media: ['assets/whiterose_v7_appearing_from_behind_a_column.gif']: 401 Unauthorized
+32 - Could not authenticate you
