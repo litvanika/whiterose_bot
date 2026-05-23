@@ -1519,3 +1519,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-05-23 14:00:53,406 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_opening.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-05-23 16:00:55,959 - log - ERROR - Failed to upload media: ['assets/whiterose_angst_v8.mp4']: 401 Unauthorized
+32 - Could not authenticate you
