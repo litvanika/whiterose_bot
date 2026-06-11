@@ -1959,3 +1959,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-06-11 00:01:05,305 - log - ERROR - Failed to upload media: ['assets/ShesAHazardToMyHealth.png']: 401 Unauthorized
 32 - Could not authenticate you
+2026-06-11 02:01:04,043 - log - ERROR - Failed to upload media: ['assets/whiterose_v7_???.mp4']: 401 Unauthorized
+32 - Could not authenticate you
