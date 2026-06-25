@@ -2293,3 +2293,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-06-24 22:01:16,625 - log - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_hug.gif']: 401 Unauthorized
 32 - Could not authenticate you
+2026-06-25 00:01:16,005 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 401 Unauthorized
+32 - Could not authenticate you
