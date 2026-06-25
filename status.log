@@ -2305,3 +2305,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-06-25 10:01:14,303 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_angst_weiss???.mp4']: 401 Unauthorized
 32 - Could not authenticate you
+2026-06-25 12:01:16,053 - log - ERROR - Failed to upload media: ['assets/whiterose_justice_league_2.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
