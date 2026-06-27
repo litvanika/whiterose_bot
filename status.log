@@ -2349,3 +2349,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-06-27 06:01:10,618 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_chess_battle.jpg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-06-27 08:01:09,353 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_angst_weiss???.mp4']: 401 Unauthorized
+32 - Could not authenticate you
