@@ -2387,3 +2387,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-06-28 20:01:13,741 - log - ERROR - Failed to upload media: ['assets/whiterose_v7.webp']: 401 Unauthorized
 32 - Could not authenticate you
+2026-06-28 22:01:13,039 - log - ERROR - Failed to upload media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png']: 401 Unauthorized
+32 - Could not authenticate you
