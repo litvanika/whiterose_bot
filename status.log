@@ -2435,3 +2435,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-06-30 20:01:08,159 - log - ERROR - Failed to upload media: ['assets/whiterose_volume_6_opening.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-06-30 22:01:11,487 - log - ERROR - Failed to upload media: ['assets/whiterose_you_re_too_cute_not_to_bother.gif']: 401 Unauthorized
+32 - Could not authenticate you
