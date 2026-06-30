@@ -2427,3 +2427,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-06-30 12:01:13,245 - log - ERROR - Failed to upload media: ['assets/whiterose_jl_part_1_hug/whiterose_ruby_sparkling_eyes_glad_to_see_weiss.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_jump_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_justice_league_hug.jpeg', 'assets/whiterose_jl_part_1_hug/whiterose_jl_part_1_hug_weiss_with_closed_eyes.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-06-30 14:01:11,580 - log - ERROR - Failed to upload media: ['assets/whiterose_soft.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
