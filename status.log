@@ -3407,3 +3407,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-08-10 20:01:04,523 - log - ERROR - Failed to upload media: ['assets/whiterose_crwby_art.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-08-10 22:01:03,726 - log - ERROR - Failed to upload media: ['assets/whiterose_ice_queendom_foodfight.gif']: 401 Unauthorized
+32 - Could not authenticate you
