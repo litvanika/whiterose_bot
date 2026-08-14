@@ -3481,3 +3481,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-08-13 22:01:00,793 - log - ERROR - Failed to upload media: ['assets/whiterose_get_whiterosed_lmao.gif']: 401 Unauthorized
 32 - Could not authenticate you
+2026-08-14 00:00:57,576 - log - ERROR - Failed to upload media: ['assets/whiterose_volume_6_opening.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
