@@ -3631,3 +3631,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-08-20 06:01:05,215 - log - ERROR - Failed to upload media: ['assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-08-20 08:00:55,579 - log - ERROR - Failed to upload media: ['assets/whiterose_volume_6_opening.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
