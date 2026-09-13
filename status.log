@@ -4201,3 +4201,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-09-13 00:01:12,201 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_angst_weiss???.mp4']: 401 Unauthorized
 32 - Could not authenticate you
+2026-09-13 02:01:14,671 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_weiss_catches_ruby.gif']: 401 Unauthorized
+32 - Could not authenticate you
