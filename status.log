@@ -4501,3 +4501,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-09-25 12:01:18,198 - log - ERROR - Failed to upload media: ['assets/whiterose_friendship_bracelets.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-09-25 14:01:53,527 - log - ERROR - Failed to upload media: ['assets/whiterose_pencils/whiterose_pencils.jpg']: 401 Unauthorized
+32 - Could not authenticate you
