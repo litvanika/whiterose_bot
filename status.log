@@ -4519,3 +4519,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-09-26 06:01:16,200 - log - ERROR - Failed to upload media: ['assets/whiterose_v9_ruby_smiling_and_weiss_hand.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-09-26 08:01:32,540 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4']: 401 Unauthorized
+32 - Could not authenticate you
