@@ -4657,3 +4657,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-10-02 00:01:11,837 - log - ERROR - Failed to upload media: ['assets/whiterose_jl_part_2_staring_at_each_other.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-10-02 02:01:09,289 - log - ERROR - Failed to upload media: ['assets/whiterose_angst_v8.mp4']: 401 Unauthorized
+32 - Could not authenticate you
