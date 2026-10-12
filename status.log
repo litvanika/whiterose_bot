@@ -4911,3 +4911,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-10-12 16:01:26,283 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_village_brunswick_farms.gif']: 401 Unauthorized
 32 - Could not authenticate you
+2026-10-12 18:01:14,750 - log - ERROR - Failed to upload media: ['assets/whiterose_soft.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
