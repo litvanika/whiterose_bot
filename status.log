@@ -4901,3 +4901,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-10-12 06:01:14,190 - log - ERROR - Failed to upload media: ['assets/whiterose_storyboard_clip/whiterose_storyboard_clip_0.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_1.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_2.png']: 401 Unauthorized
 32 - Could not authenticate you
+2026-10-12 08:01:16,900 - log - ERROR - Failed to upload media: ['assets/whiterose_v6_in_the_train_ruby_cape.gif']: 401 Unauthorized
+32 - Could not authenticate you
