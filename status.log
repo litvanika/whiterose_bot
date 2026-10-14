@@ -4951,3 +4951,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-10-14 08:01:12,931 - log - ERROR - Failed to upload media: ['assets/whiterose_storyboard_clip/whiterose_storyboard_clip_0.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_1.png', 'assets/whiterose_storyboard_clip/whiterose_storyboard_clip_2.png']: 401 Unauthorized
 32 - Could not authenticate you
+2026-10-14 10:01:21,084 - log - ERROR - Failed to upload media: ['assets/whiterose_friendship_bracelets.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
