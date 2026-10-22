@@ -5151,3 +5151,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-10-22 16:01:22,330 - log - ERROR - Failed to upload media: ['assets/whiterose_perfection/perfection.png', 'assets/whiterose_holding_hands.png', 'assets/whiterose_pencils.jpg', 'assets/whiterose_on_a_dinosaur_with_a_rainbow.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-10-22 18:01:29,783 - log - ERROR - Failed to upload media: ['assets/whiterose_chibi_ask_your_cake_butler.mp4']: 401 Unauthorized
+32 - Could not authenticate you
