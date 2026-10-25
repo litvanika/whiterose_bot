@@ -5211,3 +5211,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-10-25 04:01:12,094 - log - ERROR - Failed to upload media: ['assets/whiterose_shocked_v6/whiterose_shocked_1.png', 'assets/whiterose_shocked_v6/whiterose_shocked_2.png']: 401 Unauthorized
 32 - Could not authenticate you
+2026-10-25 06:01:13,609 - log - ERROR - Failed to upload media: ['assets/whiterose_hug_jl_part_2_ending.jpg']: 401 Unauthorized
+32 - Could not authenticate you
