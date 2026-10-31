@@ -5349,3 +5349,5 @@ Service Unavailable
 32 - Could not authenticate you
 2026-10-30 22:01:15,355 - log - ERROR - Failed to upload media: ['assets/whiterose_crwby_art.jpeg']: 401 Unauthorized
 32 - Could not authenticate you
+2026-10-31 00:01:15,334 - log - ERROR - Failed to upload media: ['assets/whiterose_coffee.jpeg']: 401 Unauthorized
+32 - Could not authenticate you
